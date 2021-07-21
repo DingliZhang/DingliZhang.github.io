@@ -19,9 +19,5 @@ This test is to build the JDK on RISCV64 and start to do some benchmark on HiFiv
 
 ## Footnotes
 
-For our staff, graduates, and interns:
-- This repo is hosting English blogs only. Chinese blogs should PR to [PLCT-Weekly](https://github.com/isrc-cas/PLCT-Weekly).
-- Do not write contents in this README file. Always create a new markdown file for your article.
-- ALL file path should not be moved or renamed. We need to keep all links available in future 10 years.
-- ALL filenames should be ASCII w/o spaces.
-- feel free to create new subfolder if you have a series of blogs to write.
+ICP主体备案号:苏ICP备16036607号
+网站备案号:苏ICP备16036607号-1
